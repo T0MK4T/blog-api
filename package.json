@@ -1,0 +1,15 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "thinkful blog api",
+  "main": "models.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "trussell",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
